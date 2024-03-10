@@ -1,5 +1,5 @@
 # pima-diabetes
-[Notebook on Kaggle](https://www.kaggle.com/sivadithiyan/pima-indian-diabetes-prediction)
+# [Notebook on Kaggle](https://www.kaggle.com/sivadithiyan/pima-indian-diabetes-prediction)
 
 Please leave a upvote and drop a comment!
 
