@@ -1,5 +1,8 @@
 # pima-diabetes
-Diabetes prediction problem (Binary Classification) using 5 ML models - Beginner Level
+# Link to Notebook: (Kaggle)[https://www.kaggle.com/sivadithiyan/pima-indian-diabetes-prediction]
+# Please leave a upvote and drop a comment!
+
+# Diabetes prediction problem (Binary Classification) using 5 ML models - Beginner Level
 
 # Diabetes Prediction with Pima Indian Dataset
 📊 This project aims to predict diabetes using the Pima Indian Diabetes Dataset through binary classification.
