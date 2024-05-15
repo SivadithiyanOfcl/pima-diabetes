@@ -29,14 +29,14 @@ If you can't see the notebook preview on github, open the pdf. It should load mo
 📈 The dataset contains health-related information such as glucose levels, blood pressure, and BMI of individuals from the Pima Native American tribe. It's widely used in research for diabetes prediction.
 
 ## Approach
-🔍 We explore multiple machine learning algorithms such as Logistic Regression, Decision Trees, Support Vector Machines, K-Nearest Neighbors, and Random Forests to find the best model for diabetes prediction.
+🔍 Exploration of multiple machine learning algorithms such as Logistic Regression, Decision Trees, Support Vector Machines, K-Nearest Neighbors, and Random Forests to find the best model for diabetes prediction.
 
 ## Usage
 💻 To use this project:
 
 - Clone the repository.
-- Run the notebook or scripts to train and evaluate the models. (requirees kaggle)
-- Analyze the results and fine-tune the models as needed.
+- Run the notebook or scripts to train and evaluate the models. (requires any code editor with appropriate libraries installed or you can load it to kaggle)
+- Analyze the results and fine-tune/download the models as needed.
 
 ## Results
-📈 We evaluate the models based on accuracy and F1 score, providing insights into their performance and suitability for diabetes prediction.
+📈 Evaluation the models are based on accuracy and F1 score, providing insights into their performance and suitability for diabetes prediction.
